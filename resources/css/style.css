@@ -1,0 +1,20 @@
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+.content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+header .title {
+    
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
